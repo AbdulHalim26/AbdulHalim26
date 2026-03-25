@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am passionate about building responsive, aesthet
 </p>
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Klik di sini untuk ke LinkedIn saya]([https://www.linkedin.com/in/masukin-link-linkedin-lu-disini](https://www.linkedin.com/in/muhammad-abdul-halim-25569a331?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+- **LinkedIn:** [Muhammad Abdul Halim]([https://www.linkedin.com/in/masukin-link-linkedin-lu-disini](https://www.linkedin.com/in/muhammad-abdul-halim-25569a331?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
 - **Email:** halimjunior52@gmail.com
 
 ---
