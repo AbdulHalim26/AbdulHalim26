@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I'm Abdul Halim
 
-<!--
-**AbdulHalim26/AbdulHalim26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Frontend Developer Enthusiast | Informatics Student
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am passionate about building responsive, aesthetic, and user-friendly web applications. I love solving problems through code and constantly learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode" />
+</p>
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulHalim26&show_icons=true&theme=radical" alt="Abdul Halim's GitHub Stats" />
+</p>
+
+### 📫 Let's Connect!
+- **LinkedIn:** [Klik di sini untuk ke LinkedIn saya]([https://www.linkedin.com/in/masukin-link-linkedin-lu-disini](https://www.linkedin.com/in/muhammad-abdul-halim-25569a331?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+- **Email:** halimjunior52@gmail.com
+
+---
+⚡ *Fun fact: I love turning coffee into clean code and building cool projects!*
