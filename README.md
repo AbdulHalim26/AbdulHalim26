@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Abdul Halim
 
-### 👨‍💻 Frontend Developer Enthusiast | Informatics Student
+### 👨‍💻 FullStack Developer Enthusiast | Informatics Student
 
 Welcome to my GitHub profile! I am passionate about building responsive, aesthetic, and user-friendly web applications. I love solving problems through code and constantly learning new technologies.
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am passionate about building responsive, aesthet
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind,php,git,github,vscode" />
 </p>
 
 ### 📈 GitHub Stats
