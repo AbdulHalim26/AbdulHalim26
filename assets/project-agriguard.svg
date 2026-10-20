@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">AgriGuard</title><desc id="desc">AI-powered rice crop scanning and flood early warnings. ICONFEST 2026, preliminary round under review.</desc>
+  <rect x=".5" y=".5" width="599" height="219" rx="12" fill="#0D1723" stroke="#284339"/>
+  <path d="M22 1h170" stroke="#86D9B0" stroke-width="2"/>
+  <rect x="27" y="27" width="48" height="48" rx="11" fill="#15382C" stroke="#39674C"/>
+  <path d="M49 62V47m0 8c-8 0-12-6-12-12 8 0 12 5 12 12Zm0-5c0-10 6-17 15-17 0 10-6 17-15 17Z" stroke="#9BDEB5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="94" y="45" fill="#8CAEAB" font-size="10" letter-spacing="1.8" font-family="'Courier New',monospace">01 / CURRENT BUILD</text>
+  <text x="92" y="76" fill="#DCEFE7" font-size="32" font-weight="700" letter-spacing="-.7" font-family="Arial,Helvetica,sans-serif">AgriGuard</text>
+  <path d="m552 34 13 0 0 13m0-13-18 18" stroke="#8FCAB0" stroke-width="1.6"/>
+  <text x="28" y="116" fill="#A9BCCC" font-size="17" font-family="Arial,Helvetica,sans-serif">AI-powered crop scanning and early flood warnings.</text>
+  <text x="28" y="143" fill="#A9BCCC" font-size="17" font-family="Arial,Helvetica,sans-serif">Built for farmers, PPL, and local authorities.</text>
+  <path d="M28 169h544" stroke="#223A3A"/>
+  <text x="28" y="195" fill="#9FCBB9" font-size="11" font-family="'Courier New',monospace">NEXT.JS · FASTAPI · SUPABASE</text>
+  <text x="572" y="195" text-anchor="end" fill="#B4D5A8" font-size="9" font-family="'Courier New',monospace">ICONFEST 2026 / UNDER REVIEW</text>
+</svg>

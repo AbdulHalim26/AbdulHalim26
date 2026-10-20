@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Abdul Halim — Full-Stack &amp; IoT Developer</title>
+  <desc id="description">Connecting interfaces, intelligent systems, and the world around us. Google Student Ambassador 2026, Informatics at UNSIKA, Karawang, Indonesia.</desc>
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1322"/><stop offset=".55" stop-color="#0A101D"/><stop offset="1" stop-color="#101728"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#2B7180" stop-opacity=".28"/><stop offset="1" stop-color="#2B7180" stop-opacity="0"/></radialGradient>
+    <linearGradient id="accent" x1="56" y1="0" x2="1224" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#77E4ED"/><stop offset=".55" stop-color="#9AB8EE"/><stop offset="1" stop-color="#B8A2F8"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#2B465C" stroke-opacity=".18"/></pattern>
+    <clipPath id="clip"><rect x="1" y="1" width="1278" height="358" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="360" fill="url(#base)"/>
+    <rect width="1280" height="360" fill="url(#grid)"/>
+    <ellipse cx="1090" cy="168" rx="275" ry="250" fill="url(#halo)"/>
+    <path d="M56 28H1224" stroke="url(#accent)" stroke-opacity=".65"/>
+    <path d="M56 312H786" stroke="#294456" stroke-opacity=".65"/>
+    <text x="56" y="72" fill="#9CB9CB" font-size="12" letter-spacing="3" font-family="'Courier New',monospace">FULL-STACK / IoT / ALWAYS CURIOUS</text>
+    <text x="53" y="146" fill="#EAF4FA" font-size="65" font-weight="700" letter-spacing="-2.5" font-family="Arial,Helvetica,sans-serif">Abdul Halim<tspan fill="#77E4ED">.</tspan></text>
+    <text x="57" y="190" fill="#A7BDCF" font-size="20" font-family="Arial,Helvetica,sans-serif">Connecting interfaces, intelligent systems,</text>
+    <text x="57" y="219" fill="#A7BDCF" font-size="20" font-family="Arial,Helvetica,sans-serif">and the world around us.</text>
+    <rect x="56" y="251" width="282" height="32" rx="7" fill="#112632" stroke="#2A4E5D"/>
+    <circle cx="73" cy="267" r="3" fill="#77E4ED"/>
+    <text x="86" y="272" fill="#BCE7EF" font-size="12" font-family="Arial,Helvetica,sans-serif">Google Student Ambassador ’26</text>
+    <rect x="349" y="251" width="207" height="32" rx="7" fill="#182034" stroke="#39405D"/>
+    <text x="364" y="272" fill="#D2CBF2" font-size="12" font-family="Arial,Helvetica,sans-serif">Informatics @ UNSIKA</text>
+    <rect x="567" y="251" width="160" height="32" rx="7" fill="#11232A" stroke="#284D50"/>
+    <text x="582" y="272" fill="#B6DAD8" font-size="12" font-family="Arial,Helvetica,sans-serif">Karawang, Indonesia</text>
+    <circle cx="60" cy="332" r="3" fill="#83DDB8"/>
+    <text x="74" y="336" fill="#8DB8B5" font-size="9" letter-spacing="1.7" font-family="'Courier New',monospace">OPEN TO INTERNSHIPS &amp; COLLABORATIONS</text>
+    <text x="1223" y="336" fill="#7D9CB2" font-size="11" text-anchor="end" font-family="'Courier New',monospace">@AbdulHalim26</text>
+    <g stroke="#47667E" stroke-opacity=".55"><path d="M921 88Q1030 66 1080 176M1216 91Q1163 137 1080 176M1204 264Q1110 282 1080 176M923 268Q1022 235 1080 176"/><circle cx="1080" cy="176" r="118" stroke-dasharray="2 10"/></g>
+    <circle cx="1080" cy="176" r="78" fill="#0B1B29" stroke="#77E4ED" stroke-opacity=".8"/>
+    <circle cx="1080" cy="176" r="86" stroke="#77E4ED" stroke-opacity=".16"/>
+    <text x="1080" y="182" text-anchor="middle" fill="#D4F5F7" font-size="43" font-weight="700" letter-spacing="-2" font-family="Arial,Helvetica,sans-serif">AH</text>
+    <text x="1080" y="207" text-anchor="middle" fill="#7CC7D3" font-size="9" letter-spacing="2.2" font-family="'Courier New',monospace">HALIM.OS</text>
+    <circle cx="921" cy="88" r="34" fill="#101D2C" stroke="#77E4ED" stroke-opacity=".6"/>
+    <text x="921" y="92" text-anchor="middle" fill="#A7E6ED" font-size="11" letter-spacing="1" font-family="'Courier New',monospace">WEB</text>
+    <circle cx="1216" cy="91" r="29" fill="#1A1930" stroke="#B8A2F8" stroke-opacity=".65"/>
+    <text x="1216" y="95" text-anchor="middle" fill="#D6C7FF" font-size="11" letter-spacing="1" font-family="'Courier New',monospace">AI</text>
+    <circle cx="1204" cy="264" r="34" fill="#10252A" stroke="#8DDBBE" stroke-opacity=".6"/>
+    <text x="1204" y="268" text-anchor="middle" fill="#B5E9D4" font-size="11" letter-spacing="1" font-family="'Courier New',monospace">IoT</text>
+    <circle cx="923" cy="268" r="27" fill="#1D1A30" stroke="#B8A2F8" stroke-opacity=".6"/>
+    <path d="m916 263-5 5 5 5m14-10 5 5-5 5m-7-12-3 14" stroke="#CEC1F6" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle class="flow" r="2.5" fill="#9BEAF1"><animateMotion path="M921 88Q1030 66 1080 176" dur="6s" repeatCount="indefinite"/></circle>
+    <circle class="flow" r="2" fill="#D0BAFF"><animateMotion path="M1080 176Q1163 137 1216 91" dur="7s" repeatCount="indefinite"/></circle>
+    <circle class="flow" r="2" fill="#A2E7CB"><animateMotion path="M1204 264Q1110 282 1080 176" dur="8s" repeatCount="indefinite"/></circle>
+  </g>
+  <rect x=".5" y=".5" width="1279" height="359" rx="18" stroke="#26374B"/>
+  <style>@media(prefers-reduced-motion:reduce){.flow{display:none}}</style>
+</svg>

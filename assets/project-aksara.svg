@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Aksara / IHSG Platform</title><desc id="desc">A financial literacy platform for young Indonesians exploring the stock market.</desc>
+  <rect x=".5" y=".5" width="599" height="219" rx="12" fill="#101925" stroke="#394854"/>
+  <path d="M22 1h170" stroke="#E1C282" stroke-width="2"/>
+  <rect x="27" y="27" width="48" height="48" rx="11" fill="#302D28" stroke="#685A40"/>
+  <path d="M37 62h29M39 58V49m9 9V44m9 14V39m-19 6 10-8 8 2 9-9" stroke="#E9CFA0" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="94" y="45" fill="#B8B1A2" font-size="10" letter-spacing="1.8" font-family="'Courier New',monospace">04 / APPROACHABLE FINANCE</text>
+  <text x="92" y="76" fill="#EFE6D4" font-size="29" font-weight="700" letter-spacing="-.7" font-family="Arial,Helvetica,sans-serif">Aksara / IHSG</text>
+  <path d="m552 34 13 0 0 13m0-13-18 18" stroke="#C8B58F" stroke-width="1.6"/>
+  <text x="28" y="116" fill="#AFBDCA" font-size="17" font-family="Arial,Helvetica,sans-serif">Financial literacy for young Indonesian investors.</text>
+  <text x="28" y="143" fill="#AFBDCA" font-size="17" font-family="Arial,Helvetica,sans-serif">A more approachable way to explore the IHSG.</text>
+  <path d="M28 169h544" stroke="#333D45"/>
+  <text x="28" y="195" fill="#D3C4A5" font-size="11" font-family="'Courier New',monospace">NEXT.JS · TAILWIND · FINANCE</text>
+  <text x="572" y="195" text-anchor="end" fill="#B5B8B7" font-size="10" font-family="'Courier New',monospace">LEARNING, REIMAGINED</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Halim OS</title><desc id="desc">A personal portfolio with Classic Desktop, Neural Map, and 3D Space Cockpit modes.</desc>
+  <rect x=".5" y=".5" width="599" height="219" rx="12" fill="#0D1723" stroke="#274252"/>
+  <path d="M22 1h170" stroke="#77E4ED" stroke-width="2"/>
+  <rect x="27" y="27" width="48" height="48" rx="11" fill="#112E3B" stroke="#326173"/>
+  <path d="M37 39h28v20H37Z" stroke="#9DDFE9" stroke-width="1.8"/><path d="M42 64h18m-9-5v5m-7-19v8m14-8v8m-14-4h14" stroke="#9DDFE9" stroke-width="1.8" stroke-linecap="round"/>
+  <text x="94" y="45" fill="#8EAEBF" font-size="10" letter-spacing="1.8" font-family="'Courier New',monospace">02 / PERSONAL UNIVERSE</text>
+  <text x="92" y="76" fill="#D9EFF4" font-size="32" font-weight="700" letter-spacing="-.7" font-family="Arial,Helvetica,sans-serif">Halim OS</text>
+  <path d="m552 34 13 0 0 13m0-13-18 18" stroke="#8BC9D5" stroke-width="1.6"/>
+  <text x="28" y="116" fill="#A9BCCC" font-size="17" font-family="Arial,Helvetica,sans-serif">A desktop, a neural map, and a space cockpit.</text>
+  <text x="28" y="143" fill="#A9BCCC" font-size="17" font-family="Arial,Helvetica,sans-serif">Three ways to explore one personal universe.</text>
+  <path d="M28 169h544" stroke="#223647"/>
+  <text x="28" y="195" fill="#9CCAD7" font-size="11" font-family="'Courier New',monospace">NEXT.JS · TYPESCRIPT · THREE.JS</text>
+  <text x="572" y="195" text-anchor="end" fill="#9DBFCB" font-size="10" font-family="'Courier New',monospace">A / B / D</text>
+</svg>
